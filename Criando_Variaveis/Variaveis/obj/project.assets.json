@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Curso\\Criando_Variaveis\\Variaveis\\Variaveis.csproj",
+      "projectUniqueName": "D:\\Curso_CSHARP\\Criando_Variaveis\\Variaveis\\Variaveis.csproj",
       "projectName": "Variaveis",
-      "projectPath": "D:\\Curso\\Criando_Variaveis\\Variaveis\\Variaveis.csproj",
+      "projectPath": "D:\\Curso_CSHARP\\Criando_Variaveis\\Variaveis\\Variaveis.csproj",
       "packagesPath": "C:\\Users\\pcesa\\.nuget\\packages\\",
-      "outputPath": "D:\\Curso\\Criando_Variaveis\\Variaveis\\obj\\",
+      "outputPath": "D:\\Curso_CSHARP\\Criando_Variaveis\\Variaveis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
