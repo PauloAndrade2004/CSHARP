@@ -1,0 +1,14 @@
+D:\Curso\OperadoreAritimetricos\bin\Debug\net9.0\OperadoreAritimetricos.exe
+D:\Curso\OperadoreAritimetricos\bin\Debug\net9.0\OperadoreAritimetricos.deps.json
+D:\Curso\OperadoreAritimetricos\bin\Debug\net9.0\OperadoreAritimetricos.runtimeconfig.json
+D:\Curso\OperadoreAritimetricos\bin\Debug\net9.0\OperadoreAritimetricos.dll
+D:\Curso\OperadoreAritimetricos\bin\Debug\net9.0\OperadoreAritimetricos.pdb
+D:\Curso\OperadoreAritimetricos\obj\Debug\net9.0\OperadoreAritimetricos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\OperadoreAritimetricos\obj\Debug\net9.0\OperadoreAritimetricos.AssemblyInfoInputs.cache
+D:\Curso\OperadoreAritimetricos\obj\Debug\net9.0\OperadoreAritimetricos.AssemblyInfo.cs
+D:\Curso\OperadoreAritimetricos\obj\Debug\net9.0\OperadoreAritimetricos.csproj.CoreCompileInputs.cache
+D:\Curso\OperadoreAritimetricos\obj\Debug\net9.0\OperadoreAritimetricos.dll
+D:\Curso\OperadoreAritimetricos\obj\Debug\net9.0\refint\OperadoreAritimetricos.dll
+D:\Curso\OperadoreAritimetricos\obj\Debug\net9.0\OperadoreAritimetricos.pdb
+D:\Curso\OperadoreAritimetricos\obj\Debug\net9.0\OperadoreAritimetricos.genruntimeconfig.cache
+D:\Curso\OperadoreAritimetricos\obj\Debug\net9.0\ref\OperadoreAritimetricos.dll

@@ -1,0 +1,14 @@
+D:\Curso\OperadoresRelacionais\bin\Debug\net9.0\OperadoresRelacionais.exe
+D:\Curso\OperadoresRelacionais\bin\Debug\net9.0\OperadoresRelacionais.deps.json
+D:\Curso\OperadoresRelacionais\bin\Debug\net9.0\OperadoresRelacionais.runtimeconfig.json
+D:\Curso\OperadoresRelacionais\bin\Debug\net9.0\OperadoresRelacionais.dll
+D:\Curso\OperadoresRelacionais\bin\Debug\net9.0\OperadoresRelacionais.pdb
+D:\Curso\OperadoresRelacionais\obj\Debug\net9.0\OperadoresRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\OperadoresRelacionais\obj\Debug\net9.0\OperadoresRelacionais.AssemblyInfoInputs.cache
+D:\Curso\OperadoresRelacionais\obj\Debug\net9.0\OperadoresRelacionais.AssemblyInfo.cs
+D:\Curso\OperadoresRelacionais\obj\Debug\net9.0\OperadoresRelacionais.csproj.CoreCompileInputs.cache
+D:\Curso\OperadoresRelacionais\obj\Debug\net9.0\OperadoresRelacionais.dll
+D:\Curso\OperadoresRelacionais\obj\Debug\net9.0\refint\OperadoresRelacionais.dll
+D:\Curso\OperadoresRelacionais\obj\Debug\net9.0\OperadoresRelacionais.pdb
+D:\Curso\OperadoresRelacionais\obj\Debug\net9.0\OperadoresRelacionais.genruntimeconfig.cache
+D:\Curso\OperadoresRelacionais\obj\Debug\net9.0\ref\OperadoresRelacionais.dll

@@ -1,0 +1,4 @@
+D:\Curso\Criando_Variaveis\Variaveis\obj\Debug\net9.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Criando_Variaveis\Variaveis\obj\Debug\net9.0\Variaveis.AssemblyInfoInputs.cache
+D:\Curso\Criando_Variaveis\Variaveis\obj\Debug\net9.0\Variaveis.AssemblyInfo.cs
+D:\Curso\Criando_Variaveis\Variaveis\obj\Debug\net9.0\Variaveis.csproj.CoreCompileInputs.cache

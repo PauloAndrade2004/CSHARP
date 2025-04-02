@@ -1,0 +1,14 @@
+D:\Curso\Comentarios\bin\Debug\net9.0\Comentarios.exe
+D:\Curso\Comentarios\bin\Debug\net9.0\Comentarios.deps.json
+D:\Curso\Comentarios\bin\Debug\net9.0\Comentarios.runtimeconfig.json
+D:\Curso\Comentarios\bin\Debug\net9.0\Comentarios.dll
+D:\Curso\Comentarios\bin\Debug\net9.0\Comentarios.pdb
+D:\Curso\Comentarios\obj\Debug\net9.0\Comentarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Comentarios\obj\Debug\net9.0\Comentarios.AssemblyInfoInputs.cache
+D:\Curso\Comentarios\obj\Debug\net9.0\Comentarios.AssemblyInfo.cs
+D:\Curso\Comentarios\obj\Debug\net9.0\Comentarios.csproj.CoreCompileInputs.cache
+D:\Curso\Comentarios\obj\Debug\net9.0\Comentarios.dll
+D:\Curso\Comentarios\obj\Debug\net9.0\refint\Comentarios.dll
+D:\Curso\Comentarios\obj\Debug\net9.0\Comentarios.pdb
+D:\Curso\Comentarios\obj\Debug\net9.0\Comentarios.genruntimeconfig.cache
+D:\Curso\Comentarios\obj\Debug\net9.0\ref\Comentarios.dll

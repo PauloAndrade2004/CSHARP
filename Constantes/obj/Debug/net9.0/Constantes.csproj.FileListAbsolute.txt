@@ -1,0 +1,14 @@
+D:\Curso\Constantes\bin\Debug\net9.0\Constantes.exe
+D:\Curso\Constantes\bin\Debug\net9.0\Constantes.deps.json
+D:\Curso\Constantes\bin\Debug\net9.0\Constantes.runtimeconfig.json
+D:\Curso\Constantes\bin\Debug\net9.0\Constantes.dll
+D:\Curso\Constantes\bin\Debug\net9.0\Constantes.pdb
+D:\Curso\Constantes\obj\Debug\net9.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Constantes\obj\Debug\net9.0\Constantes.AssemblyInfoInputs.cache
+D:\Curso\Constantes\obj\Debug\net9.0\Constantes.AssemblyInfo.cs
+D:\Curso\Constantes\obj\Debug\net9.0\Constantes.csproj.CoreCompileInputs.cache
+D:\Curso\Constantes\obj\Debug\net9.0\Constantes.dll
+D:\Curso\Constantes\obj\Debug\net9.0\refint\Constantes.dll
+D:\Curso\Constantes\obj\Debug\net9.0\Constantes.pdb
+D:\Curso\Constantes\obj\Debug\net9.0\Constantes.genruntimeconfig.cache
+D:\Curso\Constantes\obj\Debug\net9.0\ref\Constantes.dll

@@ -1,0 +1,3 @@
+(1) dotnet new console -n ProjetoAulas -f net9.0
+	-f Informar qual o framework queremos utilizar.
+
