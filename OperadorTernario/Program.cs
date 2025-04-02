@@ -16,3 +16,5 @@ int numero1 = 24;
 string nome2 = "Paulo Cesar";
 var numeroString = numero1 == 20 ? $"{nome2}" :  $"{nome1}";
 Console.WriteLine(numeroString);
+
+Console.ReadKey();

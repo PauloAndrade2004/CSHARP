@@ -1,0 +1,13 @@
+# Ignorar a pasta de configurações do Visual Studio
+.vs/
+
+# Ignorar arquivos de compilação do C#
+bin/
+obj/
+
+# Ignorar dependências geradas automaticamente
+packages/
+
+# Ignorar arquivos temporários
+*.tmp
+*.log
