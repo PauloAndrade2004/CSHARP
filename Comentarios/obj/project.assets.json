@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Curso\\Comentarios\\Comentarios.csproj",
+      "projectUniqueName": "D:\\Curso_CSHARP\\Comentarios\\Comentarios.csproj",
       "projectName": "Comentarios",
-      "projectPath": "D:\\Curso\\Comentarios\\Comentarios.csproj",
+      "projectPath": "D:\\Curso_CSHARP\\Comentarios\\Comentarios.csproj",
       "packagesPath": "C:\\Users\\pcesa\\.nuget\\packages\\",
-      "outputPath": "D:\\Curso\\Comentarios\\obj\\",
+      "outputPath": "D:\\Curso_CSHARP\\Comentarios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
