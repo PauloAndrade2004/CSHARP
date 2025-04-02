@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OperadoreAritimetricos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3e074e3d30ea987c29c3cf35f02cce07bfc57c6")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed653b21febfdb436024dd30a83180382b96c8cf")]
+>>>>>>> estudos
 [assembly: System.Reflection.AssemblyProductAttribute("OperadoreAritimetricos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OperadoreAritimetricos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
